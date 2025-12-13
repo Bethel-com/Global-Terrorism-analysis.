@@ -29,3 +29,10 @@ Power Query:To clean the data
 SQL Server Management Studios(SSMS): To analyse data and create insights.
 
 Power Bi: To visualise the outcomes.
+
+## Data preparation and cleaning process
+
+1. Load the dataset into power query.
+
+2. Arrangement of scattered columns: Using PROPER and TRIM functions to arrange improper spacing in coulumns, Removal of alphabetical characters and making sure words appeared at the left hand side of the column and numbers at the right  hand side of the columns
+
