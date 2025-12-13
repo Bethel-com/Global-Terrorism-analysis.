@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/HP/Documents/project.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="15190"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,15:mainGlobalterrorism"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">--1 what terrorism attacks occured in the year 1970
+--select * from Globalterrorism
+--where year = 1970
+--2 What countries were attacked by Bombing/Explosion
+--select country, city, attacktype1 from Globalterrorism
+--where attacktype1 = 'Bombing/Explosion' 
+--what weapons were used to destroy the contries involved in this research.
+--select country, weapontype, weapsubtype from Globalterrorism
+--3 How many sucesses have the attackers had in India between the year 2008-2015
+--select year, country, city, success from Globalterrorism 
+--where country = 'India' and year &gt; 2008
+--4 Give details on all attacks carried out in Colombia
+--select * from Globalterrorism
+--where country = 'Colombia'
+--5 In what countries were the government targeted amd what group were targeted respectively
+--select country, city, targetype1, targetsubtype, target1 from Globalterrorism
+--where targetype1 = 'Government (General)'
+--6 Give a complete view of countries terrorised by Black Nationalist
+--select * from Globalterrorism
+--where gname = 'Black Nationalists'
+--7 What countries were atttacked by unknown terrorists?
+ --select country, city, gname from Globalterrorism
+--where gname = 'Unknown'
+--8 what countries were attacked with explosives
+--select country, weapontype from Globalterrorism
+--where weapontype = 'Explosives'
+--9 what group of terrorists invaded Japan
+--select country, city, gname from Globalterrorism
+--where country = 'Japan' 
+--10 how did the attack that occured in 2005 happen
+--select year, month, country, city, latitude, longitude, location, summary,attacktype1, targetype1, targetsubtype,target1, gname from Globalterrorism
+--where year = 2005   
+
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
