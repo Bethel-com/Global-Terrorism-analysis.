@@ -1,7 +1,12 @@
 # Global-Terrorism-analysis.
 Spanning from year 1970-2017
-##Table of contents##
-###Project overview
-###data description
-###tools used
-###data preparation and cleaning
+
+1. ##Table of contents##
+
+2. ###Project overview
+
+3. ###Data description
+
+4. ###Tools used
+
+5. ###Data preparation and cleaning
