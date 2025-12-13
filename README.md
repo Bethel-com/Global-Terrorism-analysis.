@@ -19,3 +19,5 @@ Findimgs
 
 Conclusion
 ## Project overview
+
+The **Global terrorism data** aims to project an information on the terrorist attacks that ocurred in countries across the world.By analysing this data we can understand the trend of terrorist attacks across different countries, My analysis focused on the pattern of terrorist attack and the class of citizens involved in each attak in different countries per year.The insights gained from this analysis will help in wise decision making as the strengths and weakness of each attack is sited herefore and method of attack are also sited thus helping in decision regarding choice of security in coming years to avoid reoccurrences of terrorist raid. 
