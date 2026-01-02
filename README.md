@@ -15,7 +15,7 @@ Data analysis
 
 Visualisation in power Bi
 
-Findimgs
+Findings
 
 Conclusion
 ## Project overview
@@ -40,9 +40,26 @@ The **Global terrorism data** aims to project an information on the terrorist at
 
 4. Ensuring data integrity: correction of irregularities and inconsistencies in data set.
 
-## Questions answered in data analysis process using SQL Server Management Studio(SSMS).
+## Data analysis.
 
+### Questions answered in data analysis process using SQL Server Management Studio(SSMS).
 
+1. What countries were attacked by Bombing/explosion
+2. what weapons were used to terrorise the countries involved in this research?
+3. How many attacks lunched in India between the year 2008-2015 were successful?
+4. Details on all attacks carried out in columbia.
+5. What counties had government officials targeted,what respective group under the government were targeted.
+6. A complete details on terrorist attack carried out by Black Nationalist.
+7. What country had the highest terrorist attck accrding to the data set?
+8. What countries were attacked by unknown terrorist?
+9. What countries were attacked by explosives?
+10. what group of terrorists invaded Japan between the year 2008-2015
 
+### Visualization in ppower Bi
+
+. Upon completion of cleaning and analysis,the results were exported to XLX file,this XLX file served as the basis for creating a virtually appealing and understandable dashboard in PowerBi.
+. The PowerBi serves to provide better understanding of insights derived from data analysis and enhance decision making.
+. The PowerBi dashboard created helped with decision making regarding better mode of security to be imbibed in countries terorised in this research to avoid reoccurrence of further attacks.
+## Findings
 
 
