@@ -24,11 +24,11 @@ The **Global terrorism data** aims to project an information on the terrorist at
 
 ## Tools used
 
-. Power Query:To clean the data
+**. Power Query**:To clean the data
 
-. SQL Server Management Studios(SSMS): To analyse data and create insights.
+**. SQL Server Management Studios(SSMS)**: To analyse data and create insights.
 
-. Power Bi: To visualise the outcomes.
+**. Power Bi**: To visualise the outcomes.
 
 ## Data preparation and cleaning process
 
