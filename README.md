@@ -36,3 +36,13 @@ The **Global terrorism data** aims to project an information on the terrorist at
 
 2. Arrangement of scattered columns: Using PROPER and TRIM functions to arrange improper spacing in coulumns, Removal of alphabetical characters and making sure words appeared at the left hand side of the column and numbers at the right  hand side of the columns
 
+3. Updating data types: review of data types per column and change of data type to most appropriate type,such as changing the data type of a column containing numbers and alphabets from txt to varchar(50).
+
+4. Ensuring data integrity: correction of irregularities and inconsistencies in data set.
+
+## Questions answered in data analysis process using SQL Server Management Studio(SSMS).
+
+
+
+
+
