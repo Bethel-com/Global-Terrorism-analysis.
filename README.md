@@ -55,11 +55,29 @@ The **Global terrorism data** aims to project an information on the terrorist at
 9. What countries were attacked by explosives?
 10. what group of terrorists invaded Japan between the year 2008-2015
 
-### Visualization in ppower Bi
+### Visualization in power Bi
 
 . Upon completion of cleaning and analysis,the results were exported to XLX file,this XLX file served as the basis for creating a virtually appealing and understandable dashboard in PowerBi.
+
 . The PowerBi serves to provide better understanding of insights derived from data analysis and enhance decision making.
+
 . The PowerBi dashboard created helped with decision making regarding better mode of security to be imbibed in countries terorised in this research to avoid reoccurrence of further attacks.
 ## Findings
+
+**Total cases of terrorist attack**: 18,1691
+
+**Top countries with the most terrorist attacks**
+Iraq:24,636
+
+Pakistan:14,368
+
+Afghanistan:12,731
+
+India:11,960
+
+Colombia:8,306
+
+
+
 
 
