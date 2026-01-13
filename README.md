@@ -9,6 +9,9 @@ Data description
 
 Tools used
 
+Source
+https://www.kaggle.com/datasets/START-UMD/gtd
+
 Data preparation and cleaning
 
 Data analysis
