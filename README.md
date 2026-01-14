@@ -83,7 +83,7 @@ Colombia:8,306
 **Highest mode of attack**:Bombing/Explosion.
 
 ## Conclusion
-This project provides a comprehensive analysis of terroriet attacks that occurred in various countries between the year 2005-2015.Usimg the necessary tools for preparation and analysis of the data given,insights pertaining the data were raised through calculated matrices and proper visualizations. These insights are necessary for understanding the effect of terrorist attacks on various countries,and in decision making concerning the safety of the country going forward.  
+This project provides a comprehensive analysis of terrorist attacks that occurred in various countries between the year 2005-2015.Using the necessary tools for preparation and analysis of the data given,insights pertaining the data were raised through calculated matrices and proper visualizations. These insights are necessary for understanding the effect of terrorist attacks on various countries,and in decision making concerning the safety of the country going forward.  
 
 
 
